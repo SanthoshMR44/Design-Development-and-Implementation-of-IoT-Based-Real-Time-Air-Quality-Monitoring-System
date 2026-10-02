@@ -1,0 +1,40 @@
+# ─── Node.js ─────────────────────────────────────────────────────────────────
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+npm-debug.log*
+*.log
+
+# ─── Build output ─────────────────────────────────────────────────────────────
+frontend/dist/
+frontend/build/
+
+# ─── Environment / secrets ────────────────────────────────────────────────────
+.env
+backend/.env
+frontend/.env
+
+# ─── Python / legacy ──────────────────────────────────────────────────────────
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ─── Python model (large binary — store separately if needed) ─────────────────
+# research/model/knn_model.pkl is tracked intentionally for validation reference.
+# Uncomment below to exclude it from git:
+# research/model/knn_model.pkl
+
+# ─── Large data files ─────────────────────────────────────────────────────────
+# research/data/Station.csv is large (~4.7 MB). Tracked for reproducibility.
+# Uncomment below to use Git LFS or exclude:
+# research/data/Station.csv
+
+# ─── OS / Editor ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
