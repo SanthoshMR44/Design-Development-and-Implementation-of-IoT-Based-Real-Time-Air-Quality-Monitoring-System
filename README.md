@@ -520,5 +520,4 @@ Academic research project — JIT Davangere. Not licensed for commercial distrib
 ---
 
 *© 2026 AQMS — JIT Davangere, 7th Semester. All monitoring data is DEMO / SIMULATED unless stated otherwise.*
-#   D e s i g n - D e v e l o p m e n t - a n d - I m p l e m e n t a t i o n - o f - I o T - B a s e d - R e a l - T i m e - A i r - Q u a l i t y - M o n i t o r i n g - S y s t e m  
- 
+#
